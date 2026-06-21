@@ -1,2 +1,14 @@
 # msite-worldcup-journal
-HTML page archive and documentation
+
+仓库页面索引说明
+
+这里作为静态页面托管目录，记录每次发布后留下的页面文件。
+
+## 主要文件
+
+- `.html`：页面文件
+- `README.md`：仓库说明文件
+
+## 注意事项
+
+README 仅说明仓库用途，不替代具体页面内容。
